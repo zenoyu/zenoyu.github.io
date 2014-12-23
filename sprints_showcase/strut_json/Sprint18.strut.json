@@ -1,0 +1,1024 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 507,
+          "y": 470,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">MS Sprint 18</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/k7iau.jpg",
+          "type": "Image",
+          "x": 750,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 450,
+      "y": 183,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">1st Half MS18 Released on 3rd Oct before<br>advertisements went live over the NRL finals<br>weekend.<br><br></font><font color=\"#eeeeee\">CGM-1205           Refinement of Map toggle<br>CGM-1203           Change Details Page Font Colour<br>CGM-1172           Breadcrumbs for Search filters<br>CGM-1165           PP listings should not be shown as <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a pin on the map<br>CGM-1191           Select another model without <br>having to click 'Any model'</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 708,
+      "y": 184
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1205 Refinement of Map toggle<br>(Story Point 5)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 230,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Mobile map enhancements to prevent listings from<br>updating when we interact with the map to improve usability<br>and loading times.<br><br>The listings only get updated when you click on a car listing<br>pin on the map.<br><br>Demo</font><br>",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 966,
+      "y": 184
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 51.45454545454545,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-870 'Freeze search' when I move the<br>map (Story Point 5)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/BVnudNZ.png",
+          "type": "Image",
+          "x": 317,
+          "y": 220,
+          "scale": {
+            "x": 0.42269736842105277,
+            "y": 0.42269736842105277,
+            "width": 257.00000000000006,
+            "height": 261.22697368421063
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/7lUqssF.png",
+          "type": "Image",
+          "x": 584,
+          "y": 452,
+          "scale": {
+            "x": 0.5200501253132832,
+            "y": 0.5200501253132832,
+            "width": 415,
+            "height": 235.062656641604
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/JtAmAh7.png",
+          "type": "Image",
+          "x": 583,
+          "y": 220,
+          "scale": {
+            "x": 0.5581081081081082,
+            "y": 0.5581081081081082,
+            "width": 413.00000000000006,
+            "height": 218.77837837837842
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 216,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Added an<br>option to allow<br>users to turn<br>on/off the<br>searching of<br>listings when<br>they interact<br>with the map.  <br><br>Inspired by Airbnb's web site.<br><br>Demo</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1819,
+      "y": 1157
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1203 Change Details Page Font Colour <br>(Story Point 1)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/WkPkyJO.jpg",
+          "type": "Image",
+          "x": 50,
+          "y": 278,
+          "scale": {
+            "x": 0.5546623794212218,
+            "y": 0.5546623794212218,
+            "width": 344.99999999999994,
+            "height": 447.0578778135047
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 139,
+          "y": 205,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Before</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Qrfl4sd.png",
+          "type": "Image",
+          "x": 652,
+          "y": 278,
+          "scale": {
+            "x": 0.34725274725274735,
+            "y": 0.39423144778361374,
+            "width": 316.0000000000001,
+            "height": 443.1161473087818
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 767,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">After</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 474,
+          "y": 447,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">-----&gt;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 405,
+      "y": 397
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1165 PP listings should not be shown as<br>a pin on the map&nbsp;(Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 223,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Private car listings replaced with<br>circles on the map.<br> <br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/OSv44Yu.png",
+          "type": "Image",
+          "x": 667,
+          "y": 184,
+          "scale": {
+            "x": 0.547945205479452,
+            "y": 0.547945205479452,
+            "width": 320,
+            "height": 565.4794520547945
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 399,
+      "y": 657
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1191 Select another model without<br>having to click&nbsp;'Any model'&nbsp;(Story Point 2)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 216,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Added ability to<br>select a different<br>model without first<br>having to click on<br>the \"Any Model\"<br>option.  <br><br> Demo</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/tPp2jPr.png",
+          "type": "Image",
+          "x": 390,
+          "y": 217,
+          "scale": {
+            "x": 0.5901639344262295,
+            "y": 0.5901639344262295,
+            "width": 576,
+            "height": 481.57377049180326
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 391,
+      "y": 915
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1172 Breadcrumbs for Search filters<br>(Story Point 5)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Added breadcrumbs with removable buttons to allow the<br>user to easily remove the selected filters.  <br><br> Demo</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/LseJ4kS.png",
+          "type": "Image",
+          "x": 50,
+          "y": 203,
+          "scale": {
+            "x": 0.6069986541049798,
+            "y": 0.6069986541049798,
+            "width": 902,
+            "height": 328.99327052489906
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 698,
+      "y": 1135
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1082 Exclude New Cars from Maps<br>(Story Point 2)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 566,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">An overlay box was added to the map to let uses know the<br>new car won't be displayed on the map.  <br> <br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/9h2jWAp.png",
+          "type": "Image",
+          "x": 50,
+          "y": 192,
+          "scale": {
+            "x": 0.3466550825369244,
+            "y": 0.3466550825369244,
+            "width": 798,
+            "height": 345.96177237185054
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 975,
+      "y": 1133
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1113 Re-order options in select boxes<br>(Story Point 1)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 204,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Re-ordered the dropdown menu<br>options to a new order.  <br><br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/QUrG2Yz.png",
+          "type": "Image",
+          "x": 667,
+          "y": 144,
+          "scale": {
+            "x": 0.6474358974358975,
+            "y": 0.6474358974358975,
+            "width": 303,
+            "height": 231.7820512820513
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/63Y7xhA.png",
+          "type": "Image",
+          "x": 666,
+          "y": 394,
+          "scale": {
+            "x": 0.6816143497757847,
+            "y": 0.6816143497757847,
+            "width": 304,
+            "height": 297.1838565022421
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/xoxwEPi.png",
+          "type": "Image",
+          "x": 355,
+          "y": 483,
+          "scale": {
+            "x": 0.6260683760683761,
+            "y": 0.6260683760683761,
+            "width": 293,
+            "height": 207.85470085470087
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 2097,
+      "y": 1158
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1199 private party listings top of search<br>results (Story Point 0.5)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 194,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">Dealer listings<br>are now at the<br>top above<br>private listings<br>when searched<br>by post code.<br> <br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/bD2E3dC.png",
+          "type": "Image",
+          "x": 331,
+          "y": 193,
+          "scale": {
+            "x": 0.44662162162162167,
+            "y": 0.44662162162162167,
+            "width": 661.0000000000001,
+            "height": 532.372972972973
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 2095,
+      "y": 195
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1195 Update water mark on Image<br>Resizer (Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 184,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">New logo<br>added to<br>images.</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/e1y4Ww3.png",
+          "type": "Image",
+          "x": 289,
+          "y": 184,
+          "scale": {
+            "x": 0.5459501557632398,
+            "y": 0.5459501557632398,
+            "width": 700.9999999999999,
+            "height": 549.2258566978193
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2372,
+      "y": 198
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1237 Photo Resizing Issue - Results List<br>(Story Point 2)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/4VcFFOe.png",
+          "type": "Image",
+          "x": 89,
+          "y": 211,
+          "scale": {
+            "x": 0.5848153214774282,
+            "y": 0.5848153214774282,
+            "width": 855,
+            "height": 224.56908344733245
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/2Pxaaky.png",
+          "type": "Image",
+          "x": 91,
+          "y": 492,
+          "scale": {
+            "x": 0.6471927162367224,
+            "y": 0.6471927162367224,
+            "width": 853.0000000000001,
+            "height": 221.33990895295904
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 2284,
+      "y": 728
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1207 Render HTML snapshot only that<br>relevant to Googlebot&nbsp;(Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 194,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1192 Search API code migration from<br>GitHub to Stash (Story Point 1)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 348,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1194 Ingester repository migration<br>from GitHub to Stash&nbsp;(Story Point 1)</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1779,
+      "y": 427
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 374,
+          "y": 342,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 2380,
+      "y": 1160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 393,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Our Values:<br></font><br><font color=\"#eff413\">1.            We listen to our customers<br>2.            We work together as a team<br>3.            We are accountable and do what we say we will do<br>4.            We challenge the status quo and take risks<br>5.            We have fun!</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 2470,
+      "y": 942
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 223,
+        "y": 244,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 507,
+        "y": 470,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#45bade\">MS Sprint 18</font>",
+        "size": 72,
+        "selected": false,
+        "rotate": -0.01
+      },
+      {
+        "TextBox": {},
+        "x": 544,
+        "y": 568,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+        "size": 48,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 55,
+        "y": 94,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+        "selected": false,
+        "rotate": -0.63
+      },
+      {
+        "src": "http://i.imgur.com/iDRi4Mc.jpg",
+        "type": "Image",
+        "x": 98,
+        "y": 477,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://snag.gy/k7iau.jpg",
+        "type": "Image",
+        "x": 750,
+        "y": 31,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 450,
+    "y": 183,
+    "surface": "bg-surf-grad-purple"
+  },
+  "fileName": "Sprint18.strut",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1430.5,
+  "overviewY": 671.5
+}

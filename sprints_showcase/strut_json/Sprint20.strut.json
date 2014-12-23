@@ -1,0 +1,616 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 637,
+          "y": 469,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">Sprint 20</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/k7iau.jpg",
+          "type": "Image",
+          "x": 750,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 450,
+      "y": 183,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1307 The 'no-image' image is not displaying in the <br>full details page. \n</font>(Story Point  0.5)\n<br><br><br><br><br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/1MVwx.jpg",
+          "type": "Image",
+          "x": 59,
+          "y": 188,
+          "scale": {
+            "x": 0.5142083897158323,
+            "y": 0.5142083897158323,
+            "width": 380.00000000000006,
+            "height": 274.0730717185386
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/N0jqM.jpg",
+          "type": "Image",
+          "x": 522,
+          "y": 190,
+          "scale": {
+            "x": 0.5046604527296937,
+            "y": 0.5046604527296937,
+            "width": 379,
+            "height": 268.9840213049268
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 503,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\">Before</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 663,
+          "y": 497,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\">After</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 73,
+          "y": 68,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\">CGM-1305 Listing kilometre missing <br>thousand separator (Story Point 0.5) \n<br>\n<br><br><br><br>CGM-1300 Enquiry form Mr Orange text \n<br>(Story Point 0.5)&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/828yJ.jpg",
+          "type": "Image",
+          "x": 114,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/8Eqqh.jpg",
+          "type": "Image",
+          "x": 440,
+          "y": 474,
+          "scale": {
+            "x": 0.291853752405388,
+            "y": 0.291853752405388,
+            "width": 454.99999999999994,
+            "height": 259.45798588838994
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 46,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1292 Private Party ads shown on map with a pin in <br>'Seller location' tab \n(Story Point  0.5)\n<br><br><br><br><br><br><br><br>CGM-1171 Drive type needs to be <br>displayed on car details page <br>&nbsp;(Story Point  0.5)&nbsp;<br>&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/VKoDV.jpg",
+          "type": "Image",
+          "x": 156,
+          "y": 145,
+          "scale": {
+            "x": 0.5631720430107527,
+            "y": 0.5631720430107527,
+            "width": 419.00000000000006,
+            "height": 269.7594086021506
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/jNeb5.jpg",
+          "type": "Image",
+          "x": 632,
+          "y": 250,
+          "scale": {
+            "x": 0.6510538641686182,
+            "y": 0.6510538641686182,
+            "width": 278,
+            "height": 485.68618266978916
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 525,
+          "y": 522,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\">---&gt;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\">--&gt;<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1271,
+      "y": 398
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1296 Map Toggle - Show On Map <br>&amp; Back to map results&nbsp;</font>(Story Point  2)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/o8icz.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 231,
+          "scale": {
+            "x": 0.7027972027972028,
+            "y": 0.7027972027972028,
+            "width": 804,
+            "height": 307.8251748251748
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1323 \"X Cars at this location\" <br>breadcrumb un-deletable + details click <br>through \r</font><font color=\"#eeeeee\">(Story Point  3)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/fz3Fr.jpg",
+          "type": "Image",
+          "x": 101,
+          "y": 260,
+          "scale": {
+            "x": 0.5137908915971777,
+            "y": 0.5137908915971777,
+            "width": 801.0000000000001,
+            "height": 448.025657472739
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1221 Listing search: <br>Model drop down not displaying <br>all models&nbsp;</font><font color=\"#eeeeee\">(Story Point  5)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/CAcnk.jpg",
+          "type": "Image",
+          "x": 125,
+          "y": 275,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1293 Dora performance&nbsp;<br></font>(Story Point  5)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 104,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\">- Lazy Loading<br><br>- Async Loading of Gmap library<br>- Reduce refreshing/re-rendering of <br>pin markers by checking whether it is<br>already exist.<br><br>- ngTouch for Tablet/Mobile<br><br><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.04,
+      "rotateZ": -1.56,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 432,
+      "y": 382
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 393,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Our Values:<br></font><br><font color=\"#eff413\">1.            We listen to our customers<br>2.            We work together as a team<br>3.            We are accountable and do what we say we will do<br>4.            We challenge the status quo and take risks<br>5.            We have fun!</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 662,
+      "y": 669
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 48,
+        "y": 41,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1307 The 'no-image' image is not displaying in the <br>full details page. \n</font>(Story Point  0.5)\n<br><br><br><br><br></font><br>",
+        "selected": false
+      },
+      {
+        "src": "http://snag.gy/1MVwx.jpg",
+        "type": "Image",
+        "x": 59,
+        "y": 188,
+        "scale": {
+          "x": 0.5142083897158323,
+          "y": 0.5142083897158323,
+          "width": 380.00000000000006,
+          "height": 274.0730717185386
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://snag.gy/N0jqM.jpg",
+        "type": "Image",
+        "x": 522,
+        "y": 190,
+        "scale": {
+          "x": 0.5046604527296937,
+          "y": 0.5046604527296937,
+          "width": 379,
+          "height": 268.9840213049268
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 164,
+        "y": 503,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font color=\"#eeeeee\">Before</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 663,
+        "y": 497,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font color=\"#eeeeee\">After</font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 1,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "Sprint 20",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}

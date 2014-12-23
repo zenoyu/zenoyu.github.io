@@ -1,0 +1,876 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 519,
+          "y": 466,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">Sprint 16 &amp; 17</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 730,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Gorditas, cursive\">Launched 14th Sept</font>",
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "src": "http://snag.gy/k7iau.jpg",
+          "type": "Image",
+          "x": 750,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 450,
+      "y": 183,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 119,
+          "y": 52,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Sprint 16</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 115,
+          "y": 75,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font><br><br><font color=\"#eeeeee\">CGM-1014 (Story Point 8)<br></font>P001 - Url structure<br><br><font color=\"#eeeeee\">CGM-963 (Story Point 5)<br></font>P001 - Search Results ad placements [placeholder]<br><br><font color=\"#eeeeee\">CGM-952 (Story Point 3)<br></font>P001 - Deploy EIF with ingestion push into the new <br>CloudSearch domain for Maps Search<br><br><font color=\"#eeeeee\">CGM-929 (Story Point 2)<br></font>P001 - Search Results -Pagination<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 708,
+      "y": 383
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 109,
+          "y": 67,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "<font color=\"#eeeeee\">CGM-1097 (Story Point 2)<br></font>P001 - Dealers and Leads Push from EIF to new Ingester<br><br><font color=\"#eeeeee\">CGM-1096 (Story Point 2)<br></font>P001 - Lock search filters on LHS (Don't show listings)<br><br><font color=\"#eeeeee\">CGM-1094 (Story Point 5)<br></font>P001 - Search filters to show ALL options<br><br><font color=\"#eeeeee\">CGM-1085 (Story Point 3)<br></font>P001 - Apply search and cancel<br><br><font color=\"#eeeeee\">CGM-1083 (Story Point 2)<br></font>P001 - Redesign of Maps Info Box<br><br><font color=\"#eeeeee\">CGM-1040 (Story Point 2)<br></font>P001 - No results page<br><br><font color=\"#eeeeee\">CGM-1015 (Story Point 1)<br></font>P001-SR: search listing<br><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 647,
+          "y": 554,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eff413\" face=\"Lato\">End of Sprint 16<br>EIF cloudsearch pushed to Prod<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Sprint 17</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 85,
+          "y": 134,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "<font><font color=\"#eeeeee\">CGM-1012 (Story Point 3)<br></font>P001 - Map View on Mobile<br><br><font color=\"#eeeeee\">CGM-1153 (Story Point 3)<br></font>P001 - Add Lat / Lng into URL<br><br><font color=\"#eeeeee\">CGM-1154 (Story Point 2)<br></font>P001 - Treatment to indicate filter selected<br><br><font color=\"#eeeeee\">CGM-1157 (Story Point 3)<br></font>P001 - Migrate code from github to stash<br><br><font color=\"#eeeeee\">CGM-1159 (Story Point 3)<br></font>P001 - EIF setup for maven to build without running tests<br><br><font color=\"#eeeeee\">+ User Feedbacks &amp; Bugs Fixing tickets etc</font><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -3.15,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 995,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1153 Add Lat and long <br>parameters to URL&nbsp;(Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 247,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\">Description: <br></font>I want to save the the map's lat long in the URL<br>So that when a customer comes back to the same <br>page they will see the same map<br><br><font color=\"#000000\">http://sit.web.dora.cp1.carsguide.com.au/buy-a-car/</font><br><font color=\"#000000\">all-new-and-used/nsw/all-locations/all-bodytypes/</font><br><font color=\"#000000\">all-makes/?</font><font color=\"#eff413\">mapcenter=-32.18963975,147.64836250<br>&amp;zoom=6</font><br><br><font color=\"#000000\">Demo</font><br>",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 987,
+      "y": 395
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-963 Ad in Search Results<br>(Story Point 5)<br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/NRIjW.jpg",
+          "type": "Image",
+          "x": 518,
+          "y": 147,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 548,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eff413\">Google Tag Manager (GTM:) Ad Targeting by <br>New Cars &amp; Hyundai &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-&gt;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 282,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\">Description:  </font><br><font color=\"#000000\">SEO URL structure</font><br><br><font color=\"#000000\"><br><br>Challenges: </font><br><font color=\"#000000\"> - AngularJS routes</font><br><font color=\"#000000\"> </font><br><font color=\"#000000\">Demo</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 58,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1014 SEO URL structure&nbsp;<br>(Story Point 8)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 387,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eff413\">/buy-a-car / {AD-TYPE} / {STATE} / {REGION}  / {BODY-TYPE} / {MAKE} _ {MODEL}<br>&nbsp;?{REFINEMENTS}<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1271,
+      "y": 398
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1154 Treatment to indicate&nbsp;<br>Filter is selected&nbsp;(Story Point 2)<br></font>&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/rj94P.jpg",
+          "type": "Image",
+          "x": 421,
+          "y": 270,
+          "scale": {
+            "x": 2.0116731517509727,
+            "y": 2.0116731517509727,
+            "width": 517,
+            "height": 354.0544747081712
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 175,
+          "y": 342,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eff413\">Purple <br>Highlights -&gt;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 151,
+          "y": 550,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Gorditas\">Demo</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1096 (Story Point 2)<br></font>P001 - Lock search filters on LHS (Don't show listings)<br><font color=\"#eeeeee\">CGM-1094 (Story Point 5)<br></font>P001 - Search filters to show ALL options<br><font color=\"#eeeeee\">CGM-1085 (Story Point 3)<br></font>P001 - Apply search and cancel&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/aBVIp.jpg",
+          "type": "Image",
+          "x": 337,
+          "y": 333,
+          "scale": {
+            "x": 0.6977777777777778,
+            "y": 0.6977777777777778,
+            "width": 471.00000000000006,
+            "height": 392.8488888888889
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 505,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\">Demo</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1490,
+      "y": 647
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1040 No results Page<br>(Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/WvIsQ.jpg",
+          "type": "Image",
+          "x": 110,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1255,
+      "y": 176
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 73,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-929 Pagination&nbsp;<br>(Story Point 2)<br></font>&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/FuJJ4.jpg",
+          "type": "Image",
+          "x": 297,
+          "y": 292,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 37,
+          "y": 519,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eff413\">Prev &amp; <br>Next Buttons&nbsp;-&gt;<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1793,
+      "y": 638
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 73,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1083 Infobox Redesign&nbsp;<br>(Story Point 2)<br></font>&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 519,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eff413\">More Compact Design <br>to fit inside map view-&gt;<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/0E1QH.jpg",
+          "type": "Image",
+          "x": 489,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1200,
+      "y": 659
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 47,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 56,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1012 &amp; 1156&nbsp;<br>Map view on Mobile + infobox&nbsp;<br>(Total Story Point 8)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/xJZ0T.jpg",
+          "type": "Image",
+          "x": 349,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 451,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\">Demo on iOS simulator</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 940,
+      "y": 676
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.04,
+      "rotateZ": -1.56,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 432,
+      "y": 382
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 393,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Our Values:<br></font><br><font color=\"#eff413\">1.            We listen to our customers<br>2.            We work together as a team<br>3.            We are accountable and do what we say we will do<br>4.            We challenge the status quo and take risks<br>5.            We have fun!</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 662,
+      "y": 669
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 223,
+        "y": 244,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 519,
+        "y": 466,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#45bade\">Sprint 16 &amp; 17</font>",
+        "size": 72,
+        "selected": false,
+        "rotate": -0.01
+      },
+      {
+        "TextBox": {},
+        "x": 544,
+        "y": 568,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+        "size": 48,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 55,
+        "y": 94,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+        "selected": false,
+        "rotate": -0.63
+      },
+      {
+        "src": "http://i.imgur.com/iDRi4Mc.jpg",
+        "type": "Image",
+        "x": 98,
+        "y": 477,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 730,
+        "y": 211,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "<font color=\"#eeeeee\" face=\"Gorditas, cursive\">Launched 14th Sept</font>",
+        "selected": false,
+        "rotate": -0.01
+      },
+      {
+        "src": "http://snag.gy/k7iau.jpg",
+        "type": "Image",
+        "x": 750,
+        "y": 31,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 450,
+    "y": 183,
+    "surface": "bg-surf-grad-purple"
+  },
+  "fileName": "sprint16-17",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1430.5,
+  "overviewY": 671.5
+}

@@ -1,0 +1,507 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 637,
+          "y": 469,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">Sprint 23</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/k7iau.jpg",
+          "type": "Image",
+          "x": 750,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 450,
+      "y": 183,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1437 Create Car Alert From Search  (Story Point  8 )</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/X9kM0.jpg",
+          "type": "Image",
+          "x": 154,
+          "y": 226,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 703,
+      "y": 354
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1438 'Suburb or Postcode' field update improvement <br>(Story Point  3 )</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 490,
+      "y": 400
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1436 Remember Home Page Search  (Story Point  2 )</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 683,
+      "y": 152
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1430 \"No search Results\" page is displayed before <br>displaying search results when user clicks on the map circle. <br>&nbsp;(Story Point  3 )\r<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 863,
+      "y": 150
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1400 Referred details view to have relevant mini-list <br>results  (Story Point  5 )</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 931,
+      "y": 333
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1388 Location search icon - increase touch area <br>&nbsp;(Story Point  1 )\r<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 178,
+      "y": 679
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1220 P001 - Car Details text colour, alignment and <br>icon change (Story Point  2 )\r<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 488,
+      "y": 322
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1218 P001 - Search Make &amp; model drop down <br>displaying -------------- on small devices (Story Point  1 )\r<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 181,
+      "y": 373
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1419 Tech Debt: Remove unneeded CSS selectors<br>(Story Point  3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 283,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\">Additional grunt task: uncss<br><br>Production<br>307KB main.css<br>285KB site-dora-stylesheet.css (Header/Footer from Drupal)<br>Total: 592KB<br><br>MS 23<br>main.css is now 333KB including header/footer<br><br>Saved 259KB (56%)<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": true,
+      "active": true,
+      "x": 345,
+      "y": 590
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.04,
+      "rotateZ": 1.57,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 333,
+      "y": 387
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 526,
+      "y": 502
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#c40ec7\" face=\"PressStart2P, cursive\">Customer-centric.\n<br></font>We listen to our customers.\n<br>\n<br><font color=\"#c40ec7\"><font face=\"PressStart2P, cursive\">Collaborate</font>.</font>\n<br>We work together as a team.\n<br>\n<br><font face=\"PressStart2P, cursive\"><font color=\"#c40ec7\">Accountable.\n</font><br></font>We are accountable and do what we say we will do.\n<br>\n<br><font face=\"PressStart2P, cursive\"><font color=\"#c40ec7\">Challenge.\n</font><br></font>We challenge the status quo and take risks.\n<br>\n<br><font face=\"PressStart2P, cursive\"><font color=\"#c40ec7\">Joy.\n</font><br></font>We have fun!\n<br>&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 450,
+          "y": 71,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#c40ec7\" face=\"PressStart2P\">Carsguide - Our Values</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 672,
+      "y": 690
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 49,
+        "y": 35,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#eeeeee\">CGM-1419 Tech Debt: Remove unneeded CSS selectors<br>(Story Point  3)</font><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 123,
+        "y": 283,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "<font color=\"#eeeeee\">Additional grunt task: uncss<br><br>Production<br>307KB main.css<br>285KB site-dora-stylesheet.css (Header/Footer from Drupal)<br>Total: 592KB<br><br>MS 23<br>main.css is now 333KB including header/footer<br><br>Saved 259KB (56%)<br></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 2,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 9,
+    "selected": true,
+    "active": true,
+    "x": 345,
+    "y": 590
+  },
+  "fileName": "Sprint 23a",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}

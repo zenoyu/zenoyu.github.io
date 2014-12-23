@@ -1,0 +1,632 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer<br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 637,
+          "y": 469,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">Sprint 21</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/k7iau.jpg",
+          "type": "Image",
+          "x": 750,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 450,
+      "y": 183,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1295 - P001 - Map Toggle &amp; Sticky Details View <br>(Story Point 5)\r<br></font><br><br><br><br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/0mDXL.jpg",
+          "type": "Image",
+          "x": 73,
+          "y": 174,
+          "scale": {
+            "x": 0.777676120768527,
+            "y": 0.777676120768527,
+            "width": 850,
+            "height": 498.4903934126258
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 703,
+      "y": 354
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-865 - P001 - Current location added to suburb/<br>postcode field (Story Point 3)\r&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/7xumR.jpg",
+          "type": "Image",
+          "x": 48,
+          "y": 203,
+          "scale": {
+            "x": 0.7813288477712363,
+            "y": 0.7813288477712363,
+            "width": 929,
+            "height": 419.5735912531539
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 903,
+      "y": 327
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1335 - CGM-1323 - Weird behaviour when click on <br>the second listing on the info box with 'only 2 listings' <br>(Story Point 3)\r<br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/SIN3a.jpg",
+          "type": "Image",
+          "x": 105,
+          "y": 200,
+          "scale": {
+            "x": 0.5561115082201572,
+            "y": 0.5561115082201572,
+            "width": 777.9999999999999,
+            "height": 479.92423159399567
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 712,
+      "y": 181
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1369 - P001 - Seller Type Text Changes &amp; Deploy <br>(Story Point 2)\n<br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/YlfTv.jpg",
+          "type": "Image",
+          "x": 304,
+          "y": 230,
+          "scale": {
+            "x": 1.4897119341563787,
+            "y": 1.4897119341563787,
+            "width": 362,
+            "height": 326.24691358024694
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 937,
+      "y": 197
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1324 - Change map zoom for suburb/postcode/<br>current location searches to zoom=12 (Story Point 2)\r<br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/uVJVo.jpg",
+          "type": "Image",
+          "x": 96,
+          "y": 180,
+          "scale": {
+            "x": 0.5282344531808434,
+            "y": 0.5282344531808434,
+            "width": 738.9999999999999,
+            "height": 433.1522516082916
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1088,
+      "y": 358
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1350 - Ad on details pages: move to top &amp; add <br>height attribute (Story Point 1)\r<br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/dbQRe.jpg",
+          "type": "Image",
+          "x": 193,
+          "y": 211,
+          "scale": {
+            "x": 0.6845168800931315,
+            "y": 0.6845168800931315,
+            "width": 588,
+            "height": 404.5494761350407
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 335,
+      "y": 583
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1347 - Remove auto-complete from keyword search<br>field. (Story Point 1)\r<br></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 201,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#45bade\">Demo</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 488,
+      "y": 322
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1370 - P001 - Resolve CGL-1555 (Story Point 3)\n<br></font><br><br><br><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 75,
+          "y": 101,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font color=\"#45bade\">Invalid lat/Lng (Location of the markers)<br>http://www.carsguide.com.au/buy-a-car/all-new-and-used/wa/perth/all-bodytypes/opel/<br><br>53 locations are missing the Lat/Lng from SalesForce / &nbsp;Search API :<br><br>Wyong 2261, NSW\n<br>Tweed Heads 2486, NSW\n<br>Tweed Heads South 2485, NSW\n<br>Hamilton 2300, NSW\n<br>Queanbeyan 2620, ACT\n<br>Michinbury 2770, NSW\n<br>Vineyard 2756, NSW\n<br>North Strathfield 2140, NSW\n<br>Chatswood 2069, NSW\n<br>Blacktown 2145, NSW\n<br>Rockdale 2220, NSW\n<br>Greenacre 2109, NSW\n<br>Holroyd 2145, NSW\n<br>Five Dock 2045, NSW\n<br>Rothwell 4020, QLD\n<br>Upper Mount Gravatt 4112, QLD\n<br>Townsville 4814, QLD\n<br>Townsville 4812, QLD\n<br>Bohle 4814, QLD\n<br>Ipswich 4304, QLD\n<br>Ashmore 4216, QLD\n<br>Burleigh Waters 4212, QLD\n<br>Alexandra Headlands 4558, QLD\n<br>SA - North\n<br><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 562,
+          "y": 194,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font color=\"#45bade\">Melrose Park 5085, SA \r<br>St Mary's 5042, SA \r<br>Valley View 5092, SA \r<br>Strathalbyn 5013, SA \r<br>Adelaide 5039, SA \r<br>Hampstead Garden 5086, SA \r<br>Dovar Gardens 5047, SA \r<br>Flinders Park 5024, SA \r<br>Footscray 3012, VIC \r<br>Doncaster 3107, VIC \r<br>Brighton 3185, VIC \r<br>Glen Waverley 3170, VIC \r<br>Essendon North 3040, VIC \r<br>Ferntree Gully 3155, VIC \r<br>Mulgrave 3150, VIC \r<br>Brighton 3189, VIC \r<br>Bentleigh 3186, VIC \r<br>Hawthorn 3123, VIC \r<br>Upper Ferntree Gully 3158, VIC \r<br>Brighton East 3186, VIC \r<br>Heidelberg West 3072, VIC \r<br>Mitcham 3133, VIC \r<br>Perth 6230, WA \r<br>Melville 6065, WA \r<br>Northbridge 6000, WA \r<br>Perth 6100, WA \r<br>Gosnells 6155, WA \r<br>perth 6065, WA \r<br>Welshpool 6986, WA</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 638,
+      "y": 650
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1364 - SPIKE: Refactoring Code - LHS, Map, Details <br>(Story Point 2)\r<br></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 924,
+      "y": 543
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.04,
+      "rotateZ": 1.57,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 333,
+      "y": 387
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 393,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Our Values:<br></font><br><font color=\"#eff413\">1.            We listen to our customers<br>2.            We work together as a team<br>3.            We are accountable and do what we say we will do<br>4.            We challenge the status quo and take risks<br>5.            We have fun!</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 526,
+      "y": 502
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 223,
+        "y": 244,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">Dora the Explorer<br></font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 637,
+        "y": 469,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#45bade\">Sprint 21</font>",
+        "size": 72,
+        "selected": false,
+        "rotate": -0.01
+      },
+      {
+        "TextBox": {},
+        "x": 544,
+        "y": 568,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+        "size": 48,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 55,
+        "y": 94,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+        "selected": false,
+        "rotate": -0.63
+      },
+      {
+        "src": "http://i.imgur.com/iDRi4Mc.jpg",
+        "type": "Image",
+        "x": 98,
+        "y": 477,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://snag.gy/k7iau.jpg",
+        "type": "Image",
+        "x": 750,
+        "y": 31,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 450,
+    "y": 183,
+    "surface": "bg-surf-grad-purple"
+  },
+  "fileName": "Sprint 21",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 710.5,
+  "overviewY": 415.5
+}

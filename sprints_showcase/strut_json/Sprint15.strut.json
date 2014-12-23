@@ -1,0 +1,807 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 639,
+          "y": 470,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">Sprint 15</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 709,
+      "y": 383,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Map Nerd Speak</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 124,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li><span style=\"font-family: Lato; line-height: normal;\"><font color=\"#000000\">Markers<br>-- Pins<br><br>-- Circles<br>(Indicates the number of listings)</font></span></li></ul><font color=\"#000000\" face=\"Lato\"><br></font><ul><li><font color=\"#000000\"><span style=\"line-height: normal;\">Zoom levels:&nbsp;<br></span><span style=\"line-height: normal;\">-- <b>Country</b> has all the Australian <b>states</b><br>-- Every <b>state</b> has <b>regions</b> like NSW has Central Coast<br>&nbsp; &nbsp; &nbsp;and Sydney<br>-- Every <b>region</b> has <b>suburbs</b> like Sydney has Surry Hills<br>-- Every <b>suburb</b> has pins of the cars for sale in the suburb</span></font></li></ul><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/NBwkHKg.jpg",
+          "type": "Image",
+          "x": 641,
+          "y": 164,
+          "scale": {
+            "x": 0.4979253112033195,
+            "y": 0.4979253112033195,
+            "width": 120,
+            "height": 104.06639004149378
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/8Y94dnm.png",
+          "type": "Image",
+          "x": 264,
+          "y": 239,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/lusl4cW.png",
+          "type": "Image",
+          "x": 275,
+          "y": 142,
+          "scale": {
+            "x": 1.6153846153846154,
+            "y": 1.6153846153846154,
+            "width": 42,
+            "height": 58.15384615384615
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.16,
+      "rotateZ": -1.57,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 433,
+      "y": 400,
+      "background": "bg-solid-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Map Nerd Speak</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 81,
+          "y": 138,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<span style=\"color: rgb(0, 0, 0); font-family: Lato;\">Clustering<br></span><br style=\"color: rgb(0, 0, 0); line-height: 1em;\"><span style=\"color: rgb(0, 0, 0); line-height: 1em;\">Clustering on the map</span><br><span style=\"color: rgb(0, 0, 0); line-height: 1em;\">refers to the grouping</span><br><span style=\"color: rgb(0, 0, 0); line-height: 1em;\">of nearby location pins&nbsp;</span><br><span style=\"color: rgb(0, 0, 0); line-height: 1em;\">into a&nbsp;single pin to&nbsp;</span><br><span style=\"color: rgb(0, 0, 0); line-height: 1em;\">reduce&nbsp;clutter on the&nbsp;</span><br><span style=\"color: rgb(0, 0, 0); line-height: 1em;\">map.</span><br><br style=\"color: rgb(0, 0, 0); line-height: 1em;\"><font color=\"#000000\" face=\"Lato\"><br></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/xtfHM7Y.png",
+          "type": "Image",
+          "x": 498,
+          "y": 182,
+          "scale": {
+            "x": 0.8880597014925373,
+            "y": 0.8880597014925373,
+            "width": 476,
+            "height": 230.8955223880597
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Jt52SjB.jpg",
+          "type": "Image",
+          "x": 469,
+          "y": 487,
+          "scale": {
+            "x": 0.6666666666666667,
+            "y": 0.6666666666666667,
+            "width": 510.00000000000006,
+            "height": 202.00000000000003
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 427,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">Before</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 674,
+          "y": 697,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">After</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1013 Map Clustering in <br>Region View&nbsp;(Story Point 8)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 59,
+          "y": 277,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\">Description: <br>Clustering in Region level<br><br>Challenges: <br>-&nbsp;Rendering of the markers optimised to respond&nbsp;<br>quicker for user experience.<br><br>Demo</font><br>",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -3.15,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 995,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 75,
+          "y": 308,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\">Description:  <br>- production 118K listings data<br><br>Challenges: <br> - `Desert` area - ACT doesn't have Regions to zoom<br>- Secondary region dealers - TAS South = North<br>- New Cars not appear in Map&nbsp;<br> <br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1036 Map Navigation <br>(Story Point 8)</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1265,
+      "y": 175
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 112,
+          "y": 148,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#eeeeee\">Click to Zoom.&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 169,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">- Zoom with the marker's Lat/Lng (Position)<br></font>- Auto fit all markers within the map</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 301,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\">Description: <br>We implemented feedback from the usability testing<br>sessions&nbsp;to improve the user experience<br><br>Challenges: <br>- Cross browsers issues: Particularly IE 9<br>- Devices: Responsive layout for Desktop / Tablet / Mobile<br><br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 96,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-977 Search Filters <br>(Refractor) (Story Point 8)</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1860,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 96,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-827 Search Summary <br>Heading&nbsp;(Story Point 3)<br></font><br><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 300,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">Description: <br>Improve the search filter heading for the current users’s <br>selected filters, i.e. Make / Model / Seller Type / Location<br><br>Challenges:<br>-- Displaying the different seller types (used cars, all new<br>&nbsp; &nbsp; &nbsp;cars) in proper English<br>-- Displaying the number of cars in proper English.<br>&nbsp; &nbsp; &nbsp;ONE <b><i>car</i></b> instead of ONE <b><i>cars</i></b>.<br>&nbsp;<br></font></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 3.14,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1016,
+      "y": 380
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 97,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-827 Search Summary <br>Heading&nbsp;(Story Point 3)<br></font><br><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/rp2BShs.png",
+          "type": "Image",
+          "x": 71,
+          "y": 301,
+          "scale": {
+            "x": 0.6194486983154671,
+            "y": 0.6194486983154671,
+            "width": 809,
+            "height": 95.39509954058194
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 421,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">Previous version only displayed the number of results.</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/b0IaPLm.png",
+          "type": "Image",
+          "x": 72,
+          "y": 497,
+          "scale": {
+            "x": 0.5802213001383125,
+            "y": 0.5802213001383125,
+            "width": 838.9999999999999,
+            "height": 92.83540802213
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 614,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">Current version displays make, model, &nbsp;seller type plus<br>location.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 1.58,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 991,
+      "y": 626
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-827 Search Summary <br>Heading&nbsp;(Story Point 3)<br></font><br><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/iRZ2i7N.png",
+          "type": "Image",
+          "x": 78,
+          "y": 211,
+          "scale": {
+            "x": 0.44648562300319483,
+            "y": 0.44648562300319483,
+            "width": 558.9999999999999,
+            "height": 238.42332268370603
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 464,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">Current live site displays single car results with CARS!</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/SASwO6F.png",
+          "type": "Image",
+          "x": 79,
+          "y": 521,
+          "scale": {
+            "x": 0.46190476190476193,
+            "y": 0.4423076923076923,
+            "width": 679,
+            "height": 161
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 74,
+          "y": 699,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">1 Car instead of 1 Cars.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 3.14,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1223,
+      "y": 624
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 319,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\">Description: <br>To resize all the images to best optimised for <br>the new design layout with the new water mark<br><br>Demo</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#eeeeee\">CGM-1038 Search Listing Image <br>resizing&nbsp;(Story Point 5)</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -3.14,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 706,
+      "y": 579
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 396,
+      "y": 644
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 372,
+          "y": 325,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 688,
+      "y": 779
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 223,
+        "y": 244,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 639,
+        "y": 470,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#45bade\">Sprint 15</font>",
+        "size": 72,
+        "selected": false,
+        "rotate": -0.01
+      },
+      {
+        "TextBox": {},
+        "x": 544,
+        "y": 568,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+        "size": 48,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 55,
+        "y": 94,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+        "selected": false,
+        "rotate": -0.63
+      },
+      {
+        "src": "http://i.imgur.com/iDRi4Mc.jpg",
+        "type": "Image",
+        "x": 98,
+        "y": 477,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 709,
+    "y": 383,
+    "surface": "bg-surf-grad-purple"
+  },
+  "fileName": "Sprint 6",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1430.5,
+  "overviewY": 671.5
+}

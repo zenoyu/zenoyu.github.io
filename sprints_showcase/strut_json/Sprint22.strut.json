@@ -1,0 +1,782 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 637,
+          "y": 469,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#45bade\">Sprint 22</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.01
+        },
+        {
+          "TextBox": {},
+          "x": 544,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
+          "selected": false,
+          "rotate": -0.63
+        },
+        {
+          "src": "http://i.imgur.com/iDRi4Mc.jpg",
+          "type": "Image",
+          "x": 98,
+          "y": 477,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/k7iau.jpg",
+          "type": "Image",
+          "x": 750,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 450,
+      "y": 183,
+      "surface": "bg-surf-grad-purple"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1399 Dora Performance Part 3 (AngularJS)<br>(Story Point 8)<br></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">1. Reduce the number of watchers with bindonce plugin.<br>- We had 2648 watchers at the start of this sprint but now we<br>have about 13xx watchers.<br>- Refer to AngularJS Watchers Wiki.<br><br>2. Refactor refreshResultsMap() in maps.js controller.<br>- Replace refreshResultsMap() attributes to object format.<br>&nbsp; &nbsp;e.g. refreshResultsMap({ option1: '', option2: '' })<br><br>3. Replace remaining $emit() and $broadcast calls.<br>- Used angular-messages-bus plugin.<br>- Refer to AngularJS&nbsp;Event Bus Table Wiki.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": true,
+      "x": 699,
+      "y": 348
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1399 Dora Performance Part 3 (AngularJS)<br>(Story Point 8)<br></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 142,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">4. Use $timeout only when necessary and avoid using<br>$timeout to guess when a certain section of a code will<br>complete running.&nbsp;<br><br>var timeoutVariable = $timeout(.........);<br>timeoutVariable.then(function()<br>{<br>&nbsp; $timeout.cancel(timeoutVariable );<br>}<br><br>5. Trigger and event after Car Details page has loaded.<br>- Used the&nbsp;ng-include onload attribute used for loading the<br>car details can be used to fire an event to let us know the car<br>details page has been rendered.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 709,
+      "y": 175
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1327 \"Search when I move the map\" is not working <br>correctly (Story Point 5)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/CVoea.jpg",
+          "type": "Image",
+          "x": 50,
+          "y": 144,
+          "scale": {
+            "x": 0.7847341337907375,
+            "y": 0.7847341337907375,
+            "width": 915,
+            "height": 431.60377358490564
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 596,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">Fixed the \"Redo search here\" functionality.</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 490,
+      "y": 400
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1396 'All Vic' search zooming to street level <br>(Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 192,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1391 When clicking on the circle again the circle<br>with the same number is displayed (Story Point 3)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 349,
+          "y": 408,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">Demo</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 931,
+      "y": 333
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1384 The Ad(med rec) on the LHS, pushes down the <br>currently selected listing (which is on the top of the LHS),<br>to down. (Story Point 2)<br></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 190,
+          "y": 363,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">Demo</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 488,
+      "y": 322
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1353 Search results returned &amp; total returned <br>copy updates (Story Point 2)</font><br><br><br><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/UQLur.jpg",
+          "type": "Image",
+          "x": 169,
+          "y": 419,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/imOwr.jpg",
+          "type": "Image",
+          "x": 218,
+          "y": 253,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 161,
+          "y": 192,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">Production<br><br><br><br>MS - 22<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 181,
+      "y": 373
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1348 Allow price field close by clicking price field <br>again (Story Point 0.5)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/6c59N.jpg",
+          "type": "Image",
+          "x": 279,
+          "y": 322,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 222,
+          "y": 247,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">Click on the `parent` again to close</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 718,
+      "y": 502
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1349 Remove map pin icon from GNC results<br>(Story Point 0.5)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://snag.gy/1P5S3.jpg",
+          "type": "Image",
+          "x": 121,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 259,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Lato\">Map pin after the Hatchback BodyType</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 368,
+      "y": 650
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1377 Compact Car Listing (search results)<br>&nbsp;(Story Point 5)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/Y701QId.jpg",
+          "type": "Image",
+          "x": 606,
+          "y": 178,
+          "scale": {
+            "x": 0.4900074019245004,
+            "y": 0.4900074019245004,
+            "width": 662,
+            "height": 507.1576609918579
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/HNdEvmF.jpg",
+          "type": "Image",
+          "x": -163,
+          "y": 231,
+          "scale": {
+            "x": 0.29120443740095087,
+            "y": 0.29120443740095087,
+            "width": 735,
+            "height": 379.73058637083994
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 153,
+      "y": 528
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1224 Car Detail photo gallery (Story Point 2)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/aKVkN86.png",
+          "type": "Image",
+          "x": -154,
+          "y": 158,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/YStw315.png",
+          "type": "Image",
+          "x": 548,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 895,
+      "y": 516
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#eeeeee\">CGM-1331 Details Loader issue (Story Point 2)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 146,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#45bade\">Production issue- On the map,click on the listing<br>(first listing may be) and click on the 'Back to search results <br>link' and click on the same listing again from the LHS.<br>The details are not loading properly as the page is still loading&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 232,
+      "y": 203
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.04,
+      "rotateZ": 1.57,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 333,
+      "y": 387
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Lato\">Thank you</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 526,
+      "y": 502
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#c40ec7\" face=\"PressStart2P, cursive\">Customer-centric.\n<br></font>We listen to our customers.\n<br>\n<br><font color=\"#c40ec7\"><font face=\"PressStart2P, cursive\">Collaborate</font>.</font>\n<br>We work together as a team.\n<br>\n<br><font face=\"PressStart2P, cursive\"><font color=\"#c40ec7\">Accountable.\n</font><br></font>We are accountable and do what we say we will do.\n<br>\n<br><font face=\"PressStart2P, cursive\"><font color=\"#c40ec7\">Challenge.\n</font><br></font>We challenge the status quo and take risks.\n<br>\n<br><font face=\"PressStart2P, cursive\"><font color=\"#c40ec7\">Joy.\n</font><br></font>We have fun!\n<br>&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 450,
+          "y": 71,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#c40ec7\" face=\"PressStart2P\">Carsguide - Our Values</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 672,
+      "y": 690
+    }
+  ],
+  "background": "bg-solid-purple",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 48,
+        "y": 41,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1399 Dora Performance Part 3 (AngularJS)<br>(Story Point 8)<br></font><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 49,
+        "y": 156,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font color=\"#ffffff\" face=\"Lato\">1. Reduce the number of watchers with bindonce plugin.<br>- We had 2648 watchers at the start of this sprint but now we<br>have about 13xx watchers.<br>- Refer to AngularJS Watchers Wiki.<br><br>2. Refactor refreshResultsMap() in maps.js controller.<br>- Replace refreshResultsMap() attributes to object format.<br>&nbsp; &nbsp;e.g. refreshResultsMap({ option1: '', option2: '' })<br><br>3. Replace remaining $emit() and $broadcast calls.<br>- Used angular-messages-bus plugin.<br>- Refer to AngularJS&nbsp;Event Bus Table Wiki.<br></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 1,
+    "selected": false,
+    "active": true,
+    "x": 699,
+    "y": 348
+  },
+  "fileName": "Sprint 23",
+  "surface": "bg-surf-grad-purple",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 542,
+  "overviewY": 432.5
+}
