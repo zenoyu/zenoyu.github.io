@@ -70,15 +70,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 4,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
-      "x": 709,
-      "y": 383,
+      "selected": false,
+      "active": false,
+      "x": 752,
+      "y": 389,
       "surface": "bg-surf-grad-purple"
     },
     {
@@ -151,15 +151,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 3.16,
       "rotateZ": -1.57,
       "index": 1,
       "selected": false,
       "active": false,
-      "x": 433,
-      "y": 400,
+      "x": 518,
+      "y": 368,
       "background": "bg-solid-purple"
     },
     {
@@ -246,15 +246,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
       "selected": false,
       "active": false,
-      "x": 740,
-      "y": 180
+      "x": 694,
+      "y": 210
     },
     {
       "components": [
@@ -287,15 +287,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": -3.15,
       "index": 3,
       "selected": false,
-      "active": false,
-      "x": 995,
-      "y": 179
+      "active": true,
+      "x": 877,
+      "y": 210
     },
     {
       "components": [
@@ -327,15 +327,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 4,
       "selected": false,
       "active": false,
-      "x": 1265,
-      "y": 175
+      "x": 1019,
+      "y": 474
     },
     {
       "components": [
@@ -367,15 +367,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 5,
       "selected": false,
       "active": false,
-      "x": 1580,
-      "y": 180
+      "x": 1018,
+      "y": 279
     },
     {
       "components": [
@@ -414,8 +414,8 @@
       "index": 6,
       "selected": false,
       "active": false,
-      "x": 1860,
-      "y": 460
+      "x": 474,
+      "y": 184
     },
     {
       "components": [
@@ -447,7 +447,7 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 3.14,
       "rotateY": 0,
       "rotateZ": 0,
@@ -609,15 +609,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 3.14,
       "rotateY": 0,
       "rotateZ": 1.57,
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 1223,
-      "y": 624
+      "x": 656,
+      "y": 558
     },
     {
       "components": [
@@ -649,15 +649,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": -3.14,
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 706,
-      "y": 579
+      "x": 795,
+      "y": 562
     },
     {
       "components": [
@@ -683,8 +683,8 @@
       "index": 11,
       "selected": false,
       "active": false,
-      "x": 396,
-      "y": 644
+      "x": 478,
+      "y": 593
     },
     {
       "components": [
@@ -710,8 +710,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 688,
-      "y": 779
+      "x": 760,
+      "y": 713
     }
   ],
   "background": "bg-solid-purple",
@@ -719,89 +719,47 @@
     "components": [
       {
         "TextBox": {},
-        "x": 223,
-        "y": 244,
+        "x": 54,
+        "y": 82,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
-        "size": 72,
+        "size": 64,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1013 Map Clustering in <br>Region View&nbsp;(Story Point 8)</font><br>",
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 639,
-        "y": 470,
+        "x": 59,
+        "y": 277,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font color=\"#45bade\">Sprint 15</font>",
-        "size": 72,
+        "size": 36,
+        "text": "<font color=\"#000000\">Description: <br>Clustering in Region level<br><br>Challenges: <br>-&nbsp;Rendering of the markers optimised to respond&nbsp;<br>quicker for user experience.<br><br>Demo</font><br>",
         "selected": false,
-        "rotate": -0.01
-      },
-      {
-        "TextBox": {},
-        "x": 544,
-        "y": 568,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
-        "size": 48,
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 55,
-        "y": 94,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
-        "selected": false,
-        "rotate": -0.63
-      },
-      {
-        "src": "http://i.imgur.com/iDRi4Mc.jpg",
-        "type": "Image",
-        "x": 98,
-        "y": 477,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "JPG",
-        "selected": false
+        "skewX": 0
       }
     ],
     "z": 0,
-    "impScale": 3,
+    "impScale": 2,
     "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": 0,
-    "index": 0,
-    "selected": true,
+    "rotateZ": -3.15,
+    "index": 3,
+    "selected": false,
     "active": true,
-    "x": 709,
-    "y": 383,
-    "surface": "bg-surf-grad-purple"
+    "x": 877,
+    "y": 210
   },
   "fileName": "Sprint 6",
   "surface": "bg-surf-grad-purple",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  },
-  "overviewX": 1430.5,
-  "overviewY": 671.5
+  }
 }

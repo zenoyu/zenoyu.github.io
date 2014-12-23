@@ -101,8 +101,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 450,
       "y": 183,
       "surface": "bg-surf-grad-purple"
@@ -144,8 +144,8 @@
       "index": 1,
       "selected": false,
       "active": false,
-      "x": 708,
-      "y": 383
+      "x": 722,
+      "y": 368
     },
     {
       "components": [
@@ -317,8 +317,8 @@
       "index": 5,
       "selected": false,
       "active": false,
-      "x": 1580,
-      "y": 180
+      "x": 359,
+      "y": 639
     },
     {
       "components": [
@@ -363,15 +363,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 6,
       "selected": false,
       "active": false,
-      "x": 1271,
-      "y": 398
+      "x": 151,
+      "y": 369
     },
     {
       "components": [
@@ -430,15 +430,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 7,
       "selected": false,
       "active": false,
-      "x": 2140,
-      "y": 460
+      "x": 651,
+      "y": 502
     },
     {
       "components": [
@@ -491,8 +491,8 @@
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 1490,
-      "y": 647
+      "x": 651,
+      "y": 632
     },
     {
       "components": [
@@ -523,15 +523,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 1255,
-      "y": 176
+      "x": 270,
+      "y": 369
     },
     {
       "components": [
@@ -575,15 +575,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 1793,
-      "y": 638
+      "x": 446,
+      "y": 511
     },
     {
       "components": [
@@ -634,8 +634,8 @@
       "index": 11,
       "selected": false,
       "active": false,
-      "x": 1200,
-      "y": 659
+      "x": 947,
+      "y": 624
     },
     {
       "components": [
@@ -686,8 +686,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 940,
-      "y": 676
+      "x": 165,
+      "y": 210
     },
     {
       "components": [
@@ -709,12 +709,12 @@
       "impScale": 3,
       "rotateX": 0,
       "rotateY": -0.04,
-      "rotateZ": -1.56,
+      "rotateZ": 0,
       "index": 13,
       "selected": false,
-      "active": false,
-      "x": 432,
-      "y": 382
+      "active": true,
+      "x": 447,
+      "y": 369
     },
     {
       "components": [
@@ -746,15 +746,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 14,
       "selected": false,
       "active": false,
-      "x": 662,
-      "y": 669
+      "x": 170,
+      "y": 491
     }
   ],
   "background": "bg-solid-purple",
@@ -762,108 +762,28 @@
     "components": [
       {
         "TextBox": {},
-        "x": 223,
-        "y": 244,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
-        "size": 72,
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 519,
-        "y": 466,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "text": "<font color=\"#45bade\">Sprint 16 &amp; 17</font>",
-        "size": 72,
-        "selected": false,
-        "rotate": -0.01
-      },
-      {
-        "TextBox": {},
-        "x": 544,
-        "y": 568,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
-        "size": 48,
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 55,
-        "y": 94,
+        "x": 368,
+        "y": 349,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
-        "selected": false,
-        "rotate": -0.63
-      },
-      {
-        "src": "http://i.imgur.com/iDRi4Mc.jpg",
-        "type": "Image",
-        "x": 98,
-        "y": 477,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "JPG",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 730,
-        "y": 211,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 24,
-        "text": "<font color=\"#eeeeee\" face=\"Gorditas, cursive\">Launched 14th Sept</font>",
-        "selected": false,
-        "rotate": -0.01
-      },
-      {
-        "src": "http://snag.gy/k7iau.jpg",
-        "type": "Image",
-        "x": 750,
-        "y": 31,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "imageType": "JPG",
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">Questions ?</font><br>",
         "selected": false
       }
     ],
     "z": 0,
     "impScale": 3,
     "rotateX": 0,
-    "rotateY": 0,
+    "rotateY": -0.04,
     "rotateZ": 0,
-    "index": 0,
-    "selected": true,
+    "index": 13,
+    "selected": false,
     "active": true,
-    "x": 450,
-    "y": 183,
-    "surface": "bg-surf-grad-purple"
+    "x": 447,
+    "y": 369
   },
   "fileName": "sprint16-17",
   "surface": "bg-surf-grad-purple",
@@ -871,6 +791,6 @@
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1430.5,
-  "overviewY": 671.5
+  "overviewX": 746.5,
+  "overviewY": 448.5
 }

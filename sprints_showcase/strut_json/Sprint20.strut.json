@@ -82,15 +82,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 4,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
       "selected": false,
       "active": false,
-      "x": 450,
-      "y": 183,
+      "x": 591,
+      "y": 388,
       "surface": "bg-surf-grad-purple"
     },
     {
@@ -169,8 +169,10 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 1,
-      "selected": true,
-      "active": true
+      "selected": false,
+      "active": false,
+      "x": 250,
+      "y": 611
     },
     {
       "components": [
@@ -221,7 +223,9 @@
       "rotateZ": 0,
       "index": 2,
       "selected": false,
-      "active": false
+      "active": false,
+      "x": 554,
+      "y": 168
     },
     {
       "components": [
@@ -297,12 +301,12 @@
       "impScale": 3,
       "rotateX": 0,
       "rotateY": 0,
-      "rotateZ": 0,
+      "rotateZ": 1.57,
       "index": 3,
       "selected": false,
       "active": false,
-      "x": 1271,
-      "y": 398
+      "x": 880,
+      "y": 407
     },
     {
       "components": [
@@ -335,13 +339,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 4,
       "selected": false,
-      "active": false
+      "active": false,
+      "x": 816,
+      "y": 190
     },
     {
       "components": [
@@ -377,10 +383,12 @@
       "impScale": 3,
       "rotateX": 0,
       "rotateY": 0,
-      "rotateZ": 0,
+      "rotateZ": -1.57,
       "index": 5,
       "selected": false,
-      "active": false
+      "active": false,
+      "x": 301,
+      "y": 195
     },
     {
       "components": [
@@ -411,15 +419,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 6,
       "selected": false,
       "active": false,
-      "x": 2140,
-      "y": 460
+      "x": 494,
+      "y": 598
     },
     {
       "components": [
@@ -457,7 +465,9 @@
       "rotateZ": 0,
       "index": 7,
       "selected": false,
-      "active": false
+      "active": true,
+      "x": 913,
+      "y": 629
     },
     {
       "components": [
@@ -476,15 +486,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": -0.04,
-      "rotateZ": -1.56,
+      "rotateZ": -1.57,
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 432,
-      "y": 382
+      "x": 317,
+      "y": 419
     },
     {
       "components": [
@@ -516,15 +526,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 662,
-      "y": 669
+      "x": 688,
+      "y": 597
     }
   ],
   "background": "bg-solid-purple",
@@ -532,69 +542,28 @@
     "components": [
       {
         "TextBox": {},
-        "x": 48,
-        "y": 41,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1307 The 'no-image' image is not displaying in the <br>full details page. \n</font>(Story Point  0.5)\n<br><br><br><br><br></font><br>",
-        "selected": false
-      },
-      {
-        "src": "http://snag.gy/1MVwx.jpg",
-        "type": "Image",
-        "x": 59,
-        "y": 188,
-        "scale": {
-          "x": 0.5142083897158323,
-          "y": 0.5142083897158323,
-          "width": 380.00000000000006,
-          "height": 274.0730717185386
-        },
-        "imageType": "JPG",
-        "selected": false
-      },
-      {
-        "src": "http://snag.gy/N0jqM.jpg",
-        "type": "Image",
-        "x": 522,
-        "y": 190,
-        "scale": {
-          "x": 0.5046604527296937,
-          "y": 0.5046604527296937,
-          "width": 379,
-          "height": 268.9840213049268
-        },
-        "imageType": "JPG",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 164,
-        "y": 503,
+        "x": 57,
+        "y": 57,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font color=\"#eeeeee\">Before</font>",
+        "text": "<font color=\"#eeeeee\"><font face=\"Lato\">CGM-1293 Dora performance&nbsp;<br></font>(Story Point  5)</font><br>",
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 663,
-        "y": 497,
+        "x": 104,
+        "y": 256,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font color=\"#eeeeee\">After</font>",
+        "text": "<font color=\"#eeeeee\">- Lazy Loading<br><br>- Async Loading of Gmap library<br>- Reduce refreshing/re-rendering of <br>pin markers by checking whether it is<br>already exist.<br><br>- ngTouch for Tablet/Mobile<br><br><br></font>",
         "selected": false
       }
     ],
@@ -603,14 +572,18 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 1,
-    "selected": true,
-    "active": true
+    "index": 7,
+    "selected": false,
+    "active": true,
+    "x": 913,
+    "y": 629
   },
   "fileName": "Sprint 20",
   "surface": "bg-surf-grad-purple",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 460.5,
+  "overviewY": 505
 }

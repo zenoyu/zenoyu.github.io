@@ -240,8 +240,8 @@
       "index": 3,
       "selected": false,
       "active": false,
-      "x": 1819,
-      "y": 1157
+      "x": 660,
+      "y": 623
     },
     {
       "components": [
@@ -388,8 +388,8 @@
       "index": 5,
       "selected": false,
       "active": false,
-      "x": 399,
-      "y": 657
+      "x": 615,
+      "y": 400
     },
     {
       "components": [
@@ -442,8 +442,8 @@
       "index": 6,
       "selected": false,
       "active": false,
-      "x": 391,
-      "y": 915
+      "x": 402,
+      "y": 659
     },
     {
       "components": [
@@ -489,15 +489,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 7,
       "selected": false,
       "active": false,
-      "x": 698,
-      "y": 1135
+      "x": 404,
+      "y": 856
     },
     {
       "components": [
@@ -550,8 +550,8 @@
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 975,
-      "y": 1133
+      "x": 659,
+      "y": 816
     },
     {
       "components": [
@@ -632,8 +632,8 @@
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 2097,
-      "y": 1158
+      "x": 151,
+      "y": 633
     },
     {
       "components": [
@@ -686,8 +686,8 @@
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 2095,
-      "y": 195
+      "x": 169,
+      "y": 179
     },
     {
       "components": [
@@ -740,8 +740,8 @@
       "index": 11,
       "selected": false,
       "active": false,
-      "x": 2372,
-      "y": 198
+      "x": 919,
+      "y": 393
     },
     {
       "components": [
@@ -795,8 +795,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 2284,
-      "y": 728
+      "x": 1649,
+      "y": 690
     },
     {
       "components": [
@@ -848,8 +848,8 @@
       "index": 13,
       "selected": false,
       "active": false,
-      "x": 1779,
-      "y": 427
+      "x": 192,
+      "y": 403
     },
     {
       "components": [
@@ -875,8 +875,8 @@
       "index": 14,
       "selected": false,
       "active": false,
-      "x": 2380,
-      "y": 1160
+      "x": 956,
+      "y": 623
     },
     {
       "components": [
@@ -915,8 +915,8 @@
       "index": 15,
       "selected": false,
       "active": false,
-      "x": 2470,
-      "y": 942
+      "x": 1642,
+      "y": 878
     }
   ],
   "background": "bg-solid-purple",
@@ -1019,6 +1019,6 @@
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1430.5,
-  "overviewY": 671.5
+  "overviewX": 573,
+  "overviewY": 409
 }

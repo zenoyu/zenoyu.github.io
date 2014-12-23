@@ -87,8 +87,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 450,
       "y": 183,
       "surface": "bg-surf-grad-purple"
@@ -210,8 +210,8 @@
       "index": 1,
       "selected": false,
       "active": false,
-      "x": 987,
-      "y": 395
+      "x": 177,
+      "y": 348
     },
     {
       "components": [
@@ -284,15 +284,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 2,
       "selected": false,
       "active": false,
-      "x": 1580,
-      "y": 180
+      "x": 770,
+      "y": 398
     },
     {
       "components": [
@@ -338,15 +338,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
       "selected": false,
       "active": false,
-      "x": 1271,
-      "y": 398
+      "x": 617,
+      "y": 386
     },
     {
       "components": [
@@ -395,12 +395,12 @@
       "impScale": 3,
       "rotateX": 0,
       "rotateY": 0,
-      "rotateZ": 0,
+      "rotateZ": 1.57,
       "index": 4,
       "selected": false,
-      "active": false,
-      "x": 2140,
-      "y": 460
+      "active": true,
+      "x": 151,
+      "y": 827
     },
     {
       "components": [
@@ -454,8 +454,8 @@
       "index": 5,
       "selected": false,
       "active": false,
-      "x": 1490,
-      "y": 647
+      "x": 701,
+      "y": 601
     },
     {
       "components": [
@@ -489,14 +489,14 @@
       ],
       "z": 0,
       "impScale": 3,
-      "rotateX": 0,
+      "rotateX": -0.06,
       "rotateY": 0,
-      "rotateZ": 0,
+      "rotateZ": -1.58,
       "index": 6,
       "selected": false,
       "active": false,
-      "x": 2420,
-      "y": 460
+      "x": 152,
+      "y": 581
     },
     {
       "components": [
@@ -549,8 +549,8 @@
       "index": 7,
       "selected": false,
       "active": false,
-      "x": 2700,
-      "y": 460
+      "x": 748,
+      "y": 181
     },
     {
       "components": [
@@ -616,8 +616,8 @@
       "index": 8,
       "selected": false,
       "active": false,
-      "x": 2980,
-      "y": 460
+      "x": 418,
+      "y": 825
     },
     {
       "components": [
@@ -670,8 +670,8 @@
       "index": 9,
       "selected": false,
       "active": false,
-      "x": 3260,
-      "y": 460
+      "x": 713,
+      "y": 829
     },
     {
       "components": [
@@ -690,15 +690,15 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 1,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 10,
       "selected": false,
       "active": false,
-      "x": 3540,
-      "y": 740
+      "x": 618,
+      "y": 472
     },
     {
       "components": [
@@ -717,10 +717,10 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 2,
       "rotateX": 0,
       "rotateY": -0.04,
-      "rotateZ": -1.56,
+      "rotateZ": 0,
       "index": 11,
       "selected": false,
       "active": false,
@@ -764,8 +764,8 @@
       "index": 12,
       "selected": false,
       "active": false,
-      "x": 662,
-      "y": 669
+      "x": 407,
+      "y": 618
     }
   ],
   "background": "bg-solid-purple",
@@ -773,80 +773,42 @@
     "components": [
       {
         "TextBox": {},
-        "x": 223,
-        "y": 244,
+        "x": 51.49707602339181,
+        "y": 30,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "<font color=\"#eeeeee\">Dora the Explorer</font>",
-        "size": 72,
+        "size": 64,
+        "text": "<font color=\"#eeeeee\" face=\"Lato\">CGM-1246 A 'More Filters'<br>\"Cancel\" action clears all<br>previously selected filters<br>(Story Point 2)</font><br>",
         "selected": false
       },
       {
-        "TextBox": {},
-        "x": 637,
-        "y": 469,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "text": "<font color=\"#45bade\">Sprint 19</font>",
-        "size": 72,
-        "selected": false,
-        "rotate": -0.01
-      },
-      {
-        "TextBox": {},
-        "x": 544,
-        "y": 568,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "text": "<font color=\"#eeeeee\">by McLaren Team</font>",
-        "size": 48,
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 55,
-        "y": 94,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 48,
-        "text": "<font color=\"#eeeeee\" face=\"Lato\">Carsguide<br><div style=\"text-align: center;\">Map Project</div></font>",
-        "selected": false,
-        "rotate": -0.63
-      },
-      {
-        "src": "http://i.imgur.com/iDRi4Mc.jpg",
+        "src": "http://i.imgur.com/83hRUhF.png",
         "type": "Image",
-        "x": 98,
-        "y": 477,
+        "x": 50,
+        "y": 357,
         "scale": {
-          "x": 1,
-          "y": 1
+          "x": 0.48671726755218214,
+          "y": 0.48671726755218214,
+          "width": 513,
+          "height": 364.06451612903226
         },
-        "imageType": "JPG",
+        "imageType": "PNG",
         "selected": false
       },
       {
-        "src": "http://snag.gy/k7iau.jpg",
-        "type": "Image",
-        "x": 750,
-        "y": 31,
+        "TextBox": {},
+        "x": 582,
+        "y": 354,
         "scale": {
           "x": 1,
           "y": 1
         },
-        "imageType": "JPG",
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\" color=\"#ffffff\">Fixed the Cancel feature if<br>the user arrived on the<br>listings with filters selected<br>on the home page.<br></font>",
         "selected": false
       }
     ],
@@ -854,18 +816,19 @@
     "impScale": 3,
     "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": 0,
-    "index": 0,
-    "selected": true,
+    "rotateZ": 1.57,
+    "index": 4,
+    "selected": false,
     "active": true,
-    "x": 450,
-    "y": 183,
-    "surface": "bg-surf-grad-purple"
+    "x": 151,
+    "y": 827
   },
   "fileName": "Sprint 19",
   "surface": "bg-surf-grad-purple",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 900,
+  "overviewY": 528.5
 }
